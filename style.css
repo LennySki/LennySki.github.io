@@ -5,4 +5,12 @@ font: normal 16px Arial, Helvetica, sans-serif;
     line-height: 1.6em;
 }
 
+.container{
+    width: 80%;
+    margin:autio;
+    overflow:hidden;
+}
+
+
+
 
